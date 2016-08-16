@@ -1,0 +1,17 @@
+.collumn {
+  width: 300px;
+  float: left;
+  padding: 20px;
+  border-style: dotted;
+  border-width: 3px;
+
+
+/*img {
+  float:left;
+  height: 120px;
+  width: 100px;
+/*.sidebar {
+  float: right;
+  background-color: yellow;
+  font-style: italic;
+}
